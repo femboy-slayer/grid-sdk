@@ -11,7 +11,7 @@ class "item_gold" ( "item" )
 
 item_gold.data = {
 	name      = "Gold",
-	image     = "images/entities/item_apple/1.png",
+	image     = "images/entities/item_gold/ingot_gold.png",
 	stackable = true
 }
 
