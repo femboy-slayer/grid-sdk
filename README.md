@@ -1,10 +1,11 @@
-# <img src="/images/gui/logo_dark@2x.png?raw=true" width="169" height="49" title="Grid">  
-Grid is a 2D game engine written in pure Lua, built by
-[Planimeter.](https://www.planimeter.org/)  
-It was designed for multiplayer-first game experiences and to bring  
-professional-grade game engine features to the hobbyist community.
+# Planimeter Game Engine 2D
+Planimeter Game Engine 2D - LÖVE-based game engine for Lua  
+(Formerly Grid)
 
-Grid is the most feature-packed game engine you've never heard of, and  
+Planimeter Game Engine 2D was designed for multiplayer-first game experiences  
+and to bring professional-grade game engine features to the hobbyist community.
+
+It is the most feature-packed game engine you've never heard of, and  
 provides more functionality out-of-the-box than most other competing game  
 engines.
 
@@ -21,8 +22,8 @@ Planimeter @contributor, and we'll get to you ASAP.**
 [ellisonleao / **magictools**](https://github.com/ellisonleao/magictools). August 30, 2017.  
 
 ## Create a Project
-[Getting Started](http://www.planimeter.org/grid-sdk/tutorials/Getting_Started)  
-[API Documentation](http://www.planimeter.org/grid-sdk/api/Home)
+[Getting Started](https://github.com/Planimeter/game-engine-2d/wiki/Getting_Started)  
+[API Documentation](https://github.com/Planimeter/game-engine-2d/wiki/Home)
 
 ## Features
 * Add-ons/downloadable content (DLC)
@@ -56,7 +57,7 @@ Planimeter @contributor, and we'll get to you ASAP.**
 ## License
 MIT License
 
-Copyright (c) 2020 Planimeter
+Copyright (c) 2022 Planimeter
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
